@@ -1,0 +1,30 @@
+/* Mode.css */
+.mode-container {
+  border: 2px solid #333;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.ecb {
+  background-color: #f0f0f0;
+}
+
+.cbc {
+  background-color: #e0e0e0;
+}
+
+.ctr {
+  background-color: #d0d0d0;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.result {
+  margin-top: 10px;
+}
